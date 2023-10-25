@@ -3,7 +3,7 @@
 
 This repository contains material related to the practical sessions and assessment of the Machine Learning module within the [Autonomous Intelligent Machines and Systems (AIMS)](https://aims.robots.ox.ac.uk/) CDT taught course at the University of Oxford.
 
-For more information please visit the [course web page](http://www.robots.ox.ac.uk/~gunes/teaching/ml-aims-mt2022.html).
+For more information please visit the [course web page](http://www.robots.ox.ac.uk/~gunes/teaching/ml-aims-mt2023.html).
 
 ## Practical sessions
 
@@ -24,7 +24,7 @@ In order to follow the practicals you need to have the following installed.
 Alternatively you can use a [Google Colab](https://colab.research.google.com/) notebook, within which PyTorch and the other dependencies are available by default and you can install Pyro by running `!pip install pyro-ppl` in a regular code cell. Colab notebooks run the code in the cloud and do not require any installation in your local machine.
 
 #### Demonstrators
-The demonstrators for the practicals are [A. Tuan Nguyen](https://atuannguyen.com/) and [Vít Růžička](https://previtus.github.io/).
+The demonstrators for the practicals are [Vít Růžička](https://previtus.github.io/) and Jonathan Carter.
 
 ## Assessed assignment
 
