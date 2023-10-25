@@ -1,5 +1,5 @@
 # Machine Learning
-**AIMS CDT - Michaelmas Term 2022, Week 4**
+**AIMS CDT - Michaelmas Term 2023, Week 4**
 
 This repository contains material related to the practical sessions and assessment of the Machine Learning module within the [Autonomous Intelligent Machines and Systems (AIMS)](https://aims.robots.ox.ac.uk/) CDT taught course at the University of Oxford.
 
@@ -28,4 +28,4 @@ The demonstrators for the practicals are [A. Tuan Nguyen](https://atuannguyen.co
 
 ## Assessed assignment
 
-The course is assessed by a take-home assignment that needs to be submitted. See the assessed assignment directory for the instructions. **Deadline: 7 November 2022**
+The course is assessed by a take-home assignment that needs to be submitted. See the assessed assignment directory for the instructions. **Deadline: 6 November 2023**
