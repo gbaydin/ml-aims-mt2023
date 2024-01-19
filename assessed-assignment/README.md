@@ -24,7 +24,7 @@ If you are interested in a more challenging case, and in gaining a deeper unders
 Python is the preferred programming language for this assignment, but you can use other languages as well.
 
 ### Submission
-Students must submit code and an informal two-page report (including plots) describing their results to gunes@robots.ox.ac.uk. Please use the email subject "[ML AIMS MT2022]".
+Students must submit code and an informal two-page report (including plots) describing their results to gunes@robots.ox.ac.uk. Please use the email subject "[ML AIMS MT2023]".
 
 - Code: in **a zip file** which holds all code and a small text file describing how to execute the code in order to reproduce the results (e.g., by printing output to the console or saving plots to files).
 - Informal two-page report: **a single pdf file** which should have (1) a description of the network architecture used, the data used for regression or classification (2) plots showing that the network and the optimization procedure worked (e.g., a loss plot showing loss decreasing as a function of optimization iterations, a regression plot, classification output as a histogram over classes)
@@ -32,4 +32,4 @@ Students must submit code and an informal two-page report (including plots) desc
 Assessment will be on a ternary NS (Non-satisfactory) / S (Satisfactory) / S* (Outstanding) scale.
 
 ### Deadline
-The AIMS CDT program suggests that assignments can be given on Thursday (the last day of a module) and be due by the following Monday. Based on this the deadline for the assignment is 7 November 2022.
+The AIMS CDT program suggests that assignments can be given on Thursday (the last day of a module) and be due by the following Monday. Based on this the deadline for the assignment is 6 November 2023.
